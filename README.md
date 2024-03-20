@@ -2,6 +2,8 @@
 
 Esta aplicación esta desarrollada por el equipo **Made in IOS** para ayudar con el aprendizaje e integración del lenguaje de señas dentro de la empresa John Deere.
 
+Video de la aplicación: https://www.linkedin.com/feed/update/urn:li:activity:7006753611045052416/?originTrackingId=NQefkEdXSACyzKGclbqNog%3D%3D 
+
 ## Introducción
  Signa es una aplicación enfocada al lenguaje de señas, donde se crea una malla curricular simple de enseñanza basada en las prácticas de la ya mencionada para poder enseñar el abecedario y las palabras necesarias en la industria con el objetivo de poder incluir a los empleados sordomudos de una manera más abierta y al mismo tiempo lograr que el resto de la empresa puedan integrar los y comunicarse con ellos efectivamente.
 
