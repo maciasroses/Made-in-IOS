@@ -1,6 +1,6 @@
 ﻿# Signa - Aplicación para el lenguaje de Señas
 
-![5](https://github.com/maciasroses/Made-in-IOS/assets/42932766/61081f8b-ea59-4afd-80fa-63e1f8a05275)
+![4](https://github.com/maciasroses/Made-in-IOS/assets/42932766/589eadb5-2c5f-408c-9aca-9e28c67828a7)
 
 Esta aplicación esta desarrollada por el equipo **Made in IOS** para ayudar con el aprendizaje e integración del lenguaje de señas dentro de la empresa John Deere.
 
